@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|d:\\usuario\\desktop\\repaso parcial prog2\\wappiproductos\\wappirepasoparcial\\wappirepasoparcial\\controllers\\presupuestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|solutionrelative:wappirepasoparcial\\controllers\\presupuestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|d:\\usuario\\desktop\\repaso parcial prog2\\wappiproductos\\wappirepasoparcial\\wappirepasoparcial\\data\\repositories\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|solutionrelative:wappirepasoparcial\\data\\repositories\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|d:\\usuario\\desktop\\repaso parcial prog2\\wappiproductos\\wappirepasoparcial\\wappirepasoparcial\\data\\repositories\\ifacurarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|solutionrelative:wappirepasoparcial\\data\\repositories\\ifacurarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|d:\\usuario\\desktop\\repaso parcial prog2\\wappiproductos\\wappirepasoparcial\\wappirepasoparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|solutionrelative:wappirepasoparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|d:\\usuario\\desktop\\repaso parcial prog2\\wappiproductos\\wappirepasoparcial\\wappirepasoparcial\\data\\models\\tpresupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|solutionrelative:wappirepasoparcial\\data\\models\\tpresupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|d:\\usuario\\desktop\\repaso parcial prog2\\wappiproductos\\wappirepasoparcial\\wappirepasoparcial\\data\\models\\tdetallespresupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|solutionrelative:wappirepasoparcial\\data\\models\\tdetallespresupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|d:\\usuario\\desktop\\repaso parcial prog2\\wappiproductos\\wappirepasoparcial\\wappirepasoparcial\\data\\models\\ifacturadbcontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|solutionrelative:wappirepasoparcial\\data\\models\\ifacturadbcontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|d:\\usuario\\desktop\\repaso parcial prog2\\wappiproductos\\wappirepasoparcial\\wappirepasoparcial\\data\\models\\facturadbcontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|solutionrelative:wappirepasoparcial\\data\\models\\facturadbcontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|d:\\usuario\\desktop\\repaso parcial prog2\\wappiproductos\\wappirepasoparcial\\wappirepasoparcial\\data\\models\\tproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|solutionrelative:wappirepasoparcial\\data\\models\\tproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|d:\\usuario\\desktop\\repaso parcial prog2\\wappiproductos\\wappirepasoparcial\\wappirepasoparcial\\data\\models\\facturadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|solutionrelative:wappirepasoparcial\\data\\models\\facturadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|d:\\usuario\\desktop\\repaso parcial prog2\\wappiproductos\\wappirepasoparcial\\wappirepasoparcial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C206385E-A57C-46A5-9631-08F7C2FC2E57}|Wappirepasoparcial\\Wappirepasoparcial.csproj|solutionrelative:wappirepasoparcial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PresupuestoController.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Controllers\\PresupuestoController.cs",
+              "RelativeDocumentMoniker": "Wappirepasoparcial\\Controllers\\PresupuestoController.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Controllers\\PresupuestoController.cs",
+              "RelativeToolTip": "Wappirepasoparcial\\Controllers\\PresupuestoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:20:35.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Data\\Repositories\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "Wappirepasoparcial\\Data\\Repositories\\FacturaRepository.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Data\\Repositories\\FacturaRepository.cs",
+              "RelativeToolTip": "Wappirepasoparcial\\Data\\Repositories\\FacturaRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:14:48.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFacuraRepository.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Data\\Repositories\\IFacuraRepository.cs",
+              "RelativeDocumentMoniker": "Wappirepasoparcial\\Data\\Repositories\\IFacuraRepository.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Data\\Repositories\\IFacuraRepository.cs",
+              "RelativeToolTip": "Wappirepasoparcial\\Data\\Repositories\\IFacuraRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:05:30.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TPresupuesto.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Data\\Models\\TPresupuesto.cs",
+              "RelativeDocumentMoniker": "Wappirepasoparcial\\Data\\Models\\TPresupuesto.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Data\\Models\\TPresupuesto.cs",
+              "RelativeToolTip": "Wappirepasoparcial\\Data\\Models\\TPresupuesto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T21:38:37.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Program.cs",
+              "RelativeDocumentMoniker": "Wappirepasoparcial\\Program.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Program.cs",
+              "RelativeToolTip": "Wappirepasoparcial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T21:27:46.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TDetallesPresupuesto.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Data\\Models\\TDetallesPresupuesto.cs",
+              "RelativeDocumentMoniker": "Wappirepasoparcial\\Data\\Models\\TDetallesPresupuesto.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Data\\Models\\TDetallesPresupuesto.cs",
+              "RelativeToolTip": "Wappirepasoparcial\\Data\\Models\\TDetallesPresupuesto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T21:37:36.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFacturaDbContextProcedures.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Data\\Models\\IFacturaDbContextProcedures.cs",
+              "RelativeDocumentMoniker": "Wappirepasoparcial\\Data\\Models\\IFacturaDbContextProcedures.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Data\\Models\\IFacturaDbContextProcedures.cs",
+              "RelativeToolTip": "Wappirepasoparcial\\Data\\Models\\IFacturaDbContextProcedures.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T21:36:59.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FacturaDbContextProcedures.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Data\\Models\\FacturaDbContextProcedures.cs",
+              "RelativeDocumentMoniker": "Wappirepasoparcial\\Data\\Models\\FacturaDbContextProcedures.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Data\\Models\\FacturaDbContextProcedures.cs",
+              "RelativeToolTip": "Wappirepasoparcial\\Data\\Models\\FacturaDbContextProcedures.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T21:36:38.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TProducto.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Data\\Models\\TProducto.cs",
+              "RelativeDocumentMoniker": "Wappirepasoparcial\\Data\\Models\\TProducto.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Data\\Models\\TProducto.cs",
+              "RelativeToolTip": "Wappirepasoparcial\\Data\\Models\\TProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T21:36:14.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\appsettings.json",
+              "RelativeDocumentMoniker": "Wappirepasoparcial\\appsettings.json",
+              "ToolTip": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\appsettings.json",
+              "RelativeToolTip": "Wappirepasoparcial\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-14T21:30:03.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FacturaDbContext.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Data\\Models\\FacturaDbContext.cs",
+              "RelativeDocumentMoniker": "Wappirepasoparcial\\Data\\Models\\FacturaDbContext.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\repaso parcial prog2\\Wappiproductos\\Wappirepasoparcial\\Wappirepasoparcial\\Data\\Models\\FacturaDbContext.cs",
+              "RelativeToolTip": "Wappirepasoparcial\\Data\\Models\\FacturaDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T21:19:58.163Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
